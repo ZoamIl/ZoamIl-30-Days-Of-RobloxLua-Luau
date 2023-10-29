@@ -33,4 +33,3 @@ this is a 30-Day Program of learning RobloxLua(Luau) this will help you get star
 | 28    |                          [(TO BE UPDATED)                         |
 | 29    |              (TO BE UPDATED)           |
 | 30    |                                    (TO BE UPDATED)                                   |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
