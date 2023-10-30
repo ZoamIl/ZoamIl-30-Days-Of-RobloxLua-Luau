@@ -10,7 +10,7 @@ The print function takes content as a parameter and displays it in the output co
 
 For example, to print the message "Hello, beginner!" in the output console, use this code:
 
-`print("Hello, beginner!")` When you run your script or game, the output console will show the message. This method facilitates communication and collaboration.
+print("Hello, beginner!") When you run your script or game, the output console will show the message. This method facilitates communication and collaboration.
 
 Printing is valuable for debugging or understanding code behavior. You can print variable values or messages to trace issues or observe program flow, aiding in error identification and code verification.
 
