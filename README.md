@@ -3,7 +3,7 @@ this is a 30-Day Program of learning RobloxLua(Luau) this will help you get star
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introduction](./readMe.md)                                                             |
+| 01    |                                                             [Introduction](Day-1-Printing-And-Basics)                                                             |
 | 02    |                                            (TO BE UPDATED)                                               |
 | 03    |                          (TO BE UPDATED)                            |
 | 04    |                                           (TO BE UPDATED)                                        |
