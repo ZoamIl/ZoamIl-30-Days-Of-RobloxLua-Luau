@@ -1,13 +1,11 @@
 --INTRODUCTION--
-
 Printing in RobloxLua (Luau) is a common way for displaying information in the output console.
 
 By using the print function, you can easily show messages, variable values, or other details. Let's explore how printing works and its uses.
 
 The print function takes content as a parameter and displays it in the output console. It serves as a means of communication for developers. 
 
---AFTER THIS LINE YOU'RE GONNA BEGIN TO LEARN HOW TO PRINT--
-
+--LEARNING--
 For example, to print the message "Hello, beginner!" in the output console, use this code:
 
 print("Hello, beginner!") When you run your script or game, the output console will show the message. This method facilitates communication and collaboration.
@@ -37,7 +35,6 @@ The output console will display "Hello hi" with a space between the words, same 
 print("Hello hi")
 
 --CONCLUSION--
-
 In conclusion, the print function in RobloxLua (Luau) is a powerful tool for displaying information. 
 
 It enables effective communication and debugging in your projects, whether it's text, variable values, or math calculations.
