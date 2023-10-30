@@ -39,4 +39,4 @@ In conclusion, the print function in RobloxLua (Luau) is a powerful tool for dis
 
 It enables effective communication and debugging in your projects, whether it's text, variable values, or math calculations.
 
---NOW YOU KNOW PRINTING--
+--NOW YOU KNOW HOW PRINTING WORKS--
