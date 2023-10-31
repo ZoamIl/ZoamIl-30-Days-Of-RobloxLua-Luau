@@ -6,6 +6,8 @@ It is specifically designed to control and manipulate the behavior of objects th
 Developers use Localscripts to create custom interactions, animations, and gameplay mechanics. 
 
 --LEARNING--
+In a simple definition, Localscripts is a script that runs on a client
+
 These scripts are executed on the client-side, which means they are responsible for rendering graphics and handling user input.
 
 Localscripts have the ability to access and modify objects that are visible and interactive to the player, such as characters, parts, and user interfaces. 
