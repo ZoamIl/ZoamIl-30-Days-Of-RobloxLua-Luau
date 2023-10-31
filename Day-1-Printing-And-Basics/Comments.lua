@@ -5,7 +5,7 @@ They allow programmers to explain their code, highlight important details, and p
 
 By using comments, developers can easily understand and make changes to the code in the future.
 
---ACTUAL LEARNING--
+--LEARNING--
 To show how important comments are, let's look at this line of code: 
 
 print("Hey") -- This line of code will display the word "Hey" when the game is played. 
