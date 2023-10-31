@@ -32,7 +32,7 @@ In the above lines of code, we are accessing the "Transparency" and "Reflectance
 
 This allows us to manipulate the appearance and behavior of the part within the game.
 
-In conclusion, variables are essential components of Lua scripting. 
+In conclusion, variables are essential components of RobloxLua (Luau) scripting. 
 
 They provide a means of storing and manipulating data, allowing developers to create dynamic and interactive experiences in games or applications. 
 
@@ -64,13 +64,13 @@ local Favorite_DecimalPoint = 4.5
 local Text = "Hello"
 print(My_Name+Favorite_DecimalPoint, Text)
 
-This will print "8.5 Hello" but do not seperate them with spaces or one dot, because it will result in a syntax error.
+This will print "8.5 Hello" but do not seperate them with spaces or one Dot, because it will result in a syntax error.
 
-Last thing, is if we want to add a Variable(in the print statement) but theres already sentences in it, we're gonna seperate it with commas:
+Last thing, is if we want to add a Variable(in the print statement) but theres already sentences in it, we're gonna seperate it with Commas:
 
 local Sandwiches = 10
 print("I have",Sandwiches,"Sandwiches")
 
-it's not gonna print "I have Sandwiches Sandwiches" but it's gonna print "I have 10 Sandwiches"
+it's not gonna print "I have Sandwiches Sandwiches" but it's gonna print "I have 10 Sandwiches" because we seperated them with Commas.
 
 --NOW YOU KNOW HOW VARIABLES WORK
