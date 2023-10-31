@@ -46,3 +46,4 @@ They are not automatically executed but need to be required or used by other scr
 Module scripts play a crucial role in promoting code reusability and maintainability in game development, allowing developers to create more efficient and modular codebases.
 
 --NOW YOU KNOW HOW MODULESCRIPTS WORK--
+--KEEP IN MIND THAT MODULESCRIPTS HAVE SOME MORE DEPTH SO WE WILL GET BACK TO LEARNING MODULE SCRIPTS AFTER SOME DAYS--
