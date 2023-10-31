@@ -14,7 +14,7 @@ Localscripts have the ability to access and modify objects that are visible and 
 
 This allows developers to create dynamic and interactive experiences for players.
 
-For instance, consider a localscript that changes the color of a part when the player clicks on it:
+For instance, consider a Localscript that changes the color of a part when the player clicks on it:
 
 local part = script.Parent
 
