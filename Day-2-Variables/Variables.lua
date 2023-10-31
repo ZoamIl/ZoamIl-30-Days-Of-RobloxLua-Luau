@@ -1,5 +1,5 @@
 --INTRODUCTION--
-Variables serve a crucial role in Lua scripting as they allow developers to store and manipulate data. 
+Variables serve a crucial role in RobloxLua (Luau) scripting as they allow developers to store and manipulate data. 
 
 In this essay, we will see the concept of Variables and their significance in programming.
 
@@ -72,3 +72,5 @@ local Sandwiches = 10
 print("I have",Sandwiches,"Sandwiches")
 
 it's not gonna print "I have Sandwiches Sandwiches" but it's gonna print "I have 10 Sandwiches"
+
+--NOW YOU KNOW HOW VARIABLES WORK
