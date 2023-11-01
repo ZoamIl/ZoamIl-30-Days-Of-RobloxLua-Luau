@@ -5,7 +5,7 @@ this is a 30-Day Program of learning RobloxLua(Luau) this will help you get star
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                                                             [Printing and Basics](Day-1-Printing-And-Basics)                                        |
 | 02    |                                                                       [Variables](Day-2-Variables)                                                  |
-| 03    |                          (TO BE UPDATED)                            |
+| 03    |                                                                      [Properties](Day-2-Properties)                                                 |
 | 04    |                                           (TO BE UPDATED)                                        |
 | 05    |                                               (TO BE UPDATED)                                                 |
 | 06    |                                                     (TO BE UPDATED)                                                  |
