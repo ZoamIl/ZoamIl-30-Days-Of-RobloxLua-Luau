@@ -12,7 +12,7 @@ game.Players.PlayerAdded:Connect(function(player)
 print("Player joined")
 end)
 
-In this script, we have used an event called "PlayerAdded".
+In this script, we used an event called "PlayerAdded".
 
 This event is triggered when a player joins the game. 
 
