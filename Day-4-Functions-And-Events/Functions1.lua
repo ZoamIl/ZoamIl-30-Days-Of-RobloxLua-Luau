@@ -11,7 +11,7 @@ They enable us to organize our code, improve efficiency, and promote code reusab
 To illustrate the concept of Functions, let's consider the following example:
 
 function ChangeColor()
-  local Functionpart = game.workspace.part
+  local Functionpart = game.Workspace.part
   Functionpart.BrickColor = BrickColor.random()
 end
 
